@@ -43,6 +43,11 @@
     4. *Model Benckmarking*
         * sklearn accuracy - 72.1%
         * Custom code accuracy - 70.3%
+      
+        | Linear Regression | Decision tree Regressor | Random forest regressor |
+        |-------------------|-------------------------|-------------------------|
+        |                   |                         |                         |
+        | 70.3 %            | 71.9 %                  | 73.4 %                  | 
 
 2. ### Car price prediction - Random forest regressor
     1. *Data cleaning*
