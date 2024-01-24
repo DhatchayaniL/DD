@@ -2,9 +2,11 @@
 ---
 
 ## Table of contents 
-> Avacado price prediction - Regression -> [#Avocado price prediction - Decision tree regressor](https://github.com/DhatchayaniL/DD/blob/main/README.md#avocado-price-prediction---decision-tree-regressor)
+> Regression
+>> Avacado price prediction - [#Avocado price prediction - Decision tree regressor](https://github.com/DhatchayaniL/DD/blob/main/README.md#avocado-price-prediction---decision-tree-regressor)
+>> Car price prediction - 
 
-# Regression:
+## Regression:
 1. ### Avocado price prediction - Decision tree regressor
     1. *Data cleaning*
         * No null values
@@ -24,7 +26,7 @@
         * sklearn accuracy - 72.1%
         * Custom code accuracy - 70.3%
 
-2. **Car price prediction - Random forest regressor**
+2. ### Car price prediction - Random forest regressor
     1. *Data cleaning*
         * Had null values
         * Numerical columns - Imputed using Iterative Imputer
@@ -43,7 +45,7 @@
         * sklearn accuracy - 81.4%
         * Custom code accuracy - 80.4%
 
-3. **Taxi price prediction - Linear regression**
+3. ### Taxi price prediction - Linear regression
     1. *Data cleaning*
         * No null values
         * Dropped all duplicates
@@ -63,9 +65,9 @@
 
     ![lin](https://github.com/DhatchayaniL/DD/assets/88893048/481afef5-3b10-42f8-abe3-b2eb3b75b9b4)
 
-__Classification__
+## Classification
 
-4. **Credit card payment classification - KNN**
+4. ### Credit card payment classification - KNN
     1. *Data cleaning*
         * No null values
         * Dropped all duplicates
@@ -84,7 +86,7 @@ __Classification__
         * Custom code accuracy - 94.3%
     ![confusion matrix heatmap](https://github.com/DhatchayaniL/DD/assets/88893048/41acd77b-13a7-4823-9291-d21a0949f51a)
 
-5. **Rain in australia - Logistic regression**
+5. ### Rain in australia - Logistic regression
     1. *Data cleaning*
         * Had null values
         * Used KNN - imputer to fill null values
@@ -117,7 +119,7 @@ __Classification__
 
     ![ROC](https://github.com/DhatchayaniL/DD/assets/88893048/3b3a7359-d58b-416f-bf7f-f4d3c9ee6421)
 
-7. **Email spam classification - Multinomial naive bayes**
+7. ### Email spam classification - Multinomial naive bayes
     1. *Data cleaning*
         * No null values
         * Dropped all duplicates
@@ -144,7 +146,7 @@ __Classification__
         * Custom code accuracy - 95.9%
     ![ROC](https://github.com/DhatchayaniL/DD/assets/88893048/af8c4aee-89c8-4916-a376-d2e297c9d0fc)
 
-8. **Salary prediction - Ada boost classifier**
+8. ### Salary prediction - Ada boost classifier
     1. *Data cleaning*
         * No null values
         * Dropped all duplicates
@@ -170,7 +172,7 @@ __Classification__
       
           ![download](https://github.com/DhatchayaniL/DD/assets/88893048/e104a843-7b2b-4dc9-9568-ce425cfd6a9d)
 
-10. **Movie hits prediction - XG boost classifier**
+10. ### Movie hits prediction - XG boost classifier
     1. *Data cleaning*
         * Had null values
         * Did iterative imputer
