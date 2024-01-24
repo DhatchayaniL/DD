@@ -20,9 +20,9 @@
 
 >> Salary prediction-------------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#salary-prediction---ada-boost-classifier)
 
->> Movie hits prediction---------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#movie-hits-prediction---xg-boost-classifier)
+>> Movie hits prediction--------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#movie-hits-prediction---xg-boost-classifier)
 
-> API calling--------------------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#api-documentation-for-your-package)
+> API calling-----------------------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#api-documentation-for-your-package)
 
 ## Regression:
 1. ### Avocado price prediction - Decision tree regressor
