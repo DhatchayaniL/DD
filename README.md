@@ -83,6 +83,11 @@
 
     ![lin](https://github.com/DhatchayaniL/DD/assets/88893048/481afef5-3b10-42f8-abe3-b2eb3b75b9b4)
 
+| Linear Regression | Decision tree Regressor | Random forest regressor |
+|-------------------|-------------------------|-------------------------|
+|                   |                         |                         |
+| 100 %             | 100 %                   | 100 %                   | 
+
 ## Classification
 
 4. ### Credit card payment classification - KNN
