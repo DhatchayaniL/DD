@@ -2,7 +2,7 @@
 ---
 
 ## Table of contents 
-> Avacado price prediction - Regression -> [Avacado](#Avocado price prediction - Decision tree regressor) 
+> Avacado price prediction - Regression -> [#Avocado price prediction - Decision tree regressor](https://github.com/DhatchayaniL/DD/blob/main/README.md#avocado-price-prediction---decision-tree-regressor)
 
 # Regression:
 1. ### Avocado price prediction - Decision tree regressor
