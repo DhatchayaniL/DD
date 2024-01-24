@@ -2,11 +2,11 @@
 ---
 
 ## Table of contents 
-> Regression
+> ### Regression
 
->> Avacado price prediction----------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#avocado-price-prediction---decision-tree-regressor)
+>> #### Avacado price prediction----------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#avocado-price-prediction---decision-tree-regressor)
 
->> Car price prediction----------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#car-price-prediction---random-forest-regressor)
+>> #### Car price prediction----------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#car-price-prediction---random-forest-regressor)
 
 >> Taxi price prediction---------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#taxi-price-prediction---linear-regression)
 
