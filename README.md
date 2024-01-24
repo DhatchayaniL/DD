@@ -4,7 +4,7 @@
 ## Table of contents 
 > Regression
 
->> Avacado price prediction------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#avocado-price-prediction---decision-tree-regressor)
+>> Avacado price prediction----------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#avocado-price-prediction---decision-tree-regressor)
 
 >> Car price prediction----------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#car-price-prediction---random-forest-regressor)
 
