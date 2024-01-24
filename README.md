@@ -14,7 +14,7 @@
 
 >> Credit card payment classification------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#credit-card-payment-classification---knn)
 
->> Rain in australia-------------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#rain-in-australia---logistic-regression)
+>> Rain in australia--------------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#rain-in-australia---logistic-regression)
 
 >> Email spam classification-----------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#email-spam-classification---multinomial-naive-bayes)
 
