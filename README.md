@@ -12,7 +12,7 @@
 
 > Classification
 
->> Credit card payment classification--------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#credit-card-payment-classification---knn)
+>> Credit card payment classification------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#credit-card-payment-classification---knn)
 
 >> Rain in australia-------------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#rain-in-australia---logistic-regression)
 
