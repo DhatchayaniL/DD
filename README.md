@@ -68,6 +68,11 @@
         * sklearn accuracy - 81.4%
         * Custom code accuracy - 80.4%
 
+          | Linear Regression | Decision tree Regressor | Random forest regressor |
+          |-------------------|-------------------------|-------------------------|
+          |                   |                         |                         |
+          | 84.4 %            | 78.9 %                  | 81.5 %                  |
+
 3. ### Taxi price prediction - Linear regression
     1. *Data cleaning*
         * No null values
@@ -91,7 +96,7 @@
 | Linear Regression | Decision tree Regressor | Random forest regressor |
 |-------------------|-------------------------|-------------------------|
 |                   |                         |                         |
-| 100 %             | 100 %                   | 100 %                   | 
+| 100 %             | 99.6 %                  | 96.4 %                  | 
 
 ## Classification
 
