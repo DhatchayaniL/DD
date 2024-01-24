@@ -120,6 +120,11 @@
         * Custom code accuracy - 94.3%
     ![confusion matrix heatmap](https://github.com/DhatchayaniL/DD/assets/88893048/41acd77b-13a7-4823-9291-d21a0949f51a)
 
+    | KNN    | Multinomial Naive Bayes | Adaboost | Logistic Regression | XG boost |
+    |--------|-------------------------|----------|---------------------|----------|
+    |        |                         |          |                     |          |
+    | 91.7 % | 49.7 %                  | 49.7 %   | 92.2 %              | 91.7     | 
+
 5. ### Rain in australia - Logistic regression
     1. *Data cleaning*
         * Had null values
