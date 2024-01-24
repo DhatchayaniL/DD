@@ -2,16 +2,17 @@
 ---
 
 ## Table of contents 
+---
 > ### Regression
-
+---
 >> #### Avacado price prediction----------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#avocado-price-prediction---decision-tree-regressor)
 
 >> #### Car price prediction----------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#car-price-prediction---random-forest-regressor)
 
 >> #### Taxi price prediction---------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#taxi-price-prediction---linear-regression)
-
+---
 > ### Classification
-
+---
 >> #### Credit card payment classification------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#credit-card-payment-classification---knn)
 
 >> #### Rain in australia--------------------------[click here](https://github.com/DhatchayaniL/DD/blob/main/README.md#rain-in-australia---logistic-regression)
